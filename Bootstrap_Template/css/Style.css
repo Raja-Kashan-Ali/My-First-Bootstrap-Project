@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#head i{
+         margin-left: 170px;
+}
+.one span{
+    color: rgb(241, 241, 241);
+    margin-left: 50px;
+}
+.two span{
+    margin-left: 50px;
+}
+
+.image-left{
+    width: 100%;
+    height: 800px;
+}
+.image-right{
+     width: 90%;
+     height: 700px;
+}
